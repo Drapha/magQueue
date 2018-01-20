@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;flameChainService&apos; in &apos;flameChain.Main.main(...)&apos; to &apos;fCServer&apos;&#x0A;- Original project: &apos;flameChain&apos;&#x0A;- Original element: &apos;flameChain.Main.main(String[]).flameChainService&apos;&#x0A;- Renamed element: &apos;flameChainService&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;flameChainService&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;flameChain{Main.java[Main~main~\[QString;@flameChainService!197!234!210!226!QServerSocket;!0!false" name="fCServer" references="true" stamp="1516474378395" version="1.0"/>
+</session>

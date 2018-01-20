@@ -1,0 +1,17 @@
+package flameChain;
+
+import java.net.ServerSocket;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ServerSocket flameChainService;
+		try {
+			flameChainService = new ServerSocket(1999);
+		} catch {
+				System.out.println(e);
+		}
+	}
+
+}

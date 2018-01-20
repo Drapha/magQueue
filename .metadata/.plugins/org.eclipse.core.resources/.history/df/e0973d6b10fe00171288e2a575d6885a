@@ -1,0 +1,19 @@
+package flameChain;
+
+import java.io.IOException;
+import java.net.ServerSocket;
+
+public class Main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		ServerSocket flameChainService;
+		try {
+			flameChainService = new ServerSocket(1999);
+		} 
+		catch (IOException e){
+				System.out.println(e);
+		}
+	}
+
+}
